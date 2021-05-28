@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brova\\source\\repos\\Robonet\\Robonet\\Robonet.csproj": {}
+    "C:\\Projects\\Robonet\\Robonet\\Robonet\\Robonet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brova\\source\\repos\\Robonet\\Robonet\\Robonet.csproj": {
+    "C:\\Projects\\Robonet\\Robonet\\Robonet\\Robonet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brova\\source\\repos\\Robonet\\Robonet\\Robonet.csproj",
+        "projectUniqueName": "C:\\Projects\\Robonet\\Robonet\\Robonet\\Robonet.csproj",
         "projectName": "Robonet",
-        "projectPath": "C:\\Users\\brova\\source\\repos\\Robonet\\Robonet\\Robonet.csproj",
+        "projectPath": "C:\\Projects\\Robonet\\Robonet\\Robonet\\Robonet.csproj",
         "packagesPath": "C:\\Users\\brova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brova\\source\\repos\\Robonet\\Robonet\\obj\\",
+        "outputPath": "C:\\Projects\\Robonet\\Robonet\\Robonet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brova\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,0 +1,7 @@
+C:\Projects\Robonet\Robonet\obj\Debug\netcoreapp3.1\Robonet.csprojAssemblyReference.cache
+C:\Projects\Robonet\Robonet\obj\Debug\netcoreapp3.1\Robonet.AssemblyInfoInputs.cache
+C:\Projects\Robonet\Robonet\obj\Debug\netcoreapp3.1\Robonet.AssemblyInfo.cs
+C:\Projects\Robonet\Robonet\obj\Debug\netcoreapp3.1\Robonet.csproj.CoreCompileInputs.cache
+C:\Projects\Robonet\Robonet\obj\Debug\netcoreapp3.1\Robonet.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Robonet\Robonet\obj\Debug\netcoreapp3.1\Robonet.RazorAssemblyInfo.cache
+C:\Projects\Robonet\Robonet\obj\Debug\netcoreapp3.1\Robonet.RazorAssemblyInfo.cs
